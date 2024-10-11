@@ -280,7 +280,7 @@
     <div>
         <table class="auto-style1">
             <tr>
-                <td class="auto-style2"><a href="AnaSayfa.aspx">ANASAYFA</a></td>
+                <td class="auto-style2"><a href="index.html">ANASAYFA</a></td>
                 <td class="auto-style2"><a href="ürünler.aspx">ÜRÜNLER</a></td>
                 <td class="auto-style2"><a href="Hakkımızda.aspx">HAKKIMIZDA</a></td>
                 <td class="auto-style2"><a href="İletisim.aspx">İLETİŞİM</a></td>
