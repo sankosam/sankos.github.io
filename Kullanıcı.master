@@ -1,4 +1,3 @@
-<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Kullanıcı.master.cs" Inherits="KoltukSatisMagazasi.Kullanıcı" %>
 
 <head>
     <link href="StyleSheet1.css" rel="stylesheet" />
